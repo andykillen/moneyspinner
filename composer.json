@@ -1,0 +1,10 @@
+{
+    "name": "andykillen/moneyspinner",
+    "version": "1.0.0",
+    "description": "Creates a autoloader for PSR4",
+    "autoload": {
+        "psr-4": {
+            "MoneySpinner\\": "src/"
+        }
+    }
+}

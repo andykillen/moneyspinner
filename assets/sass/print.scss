@@ -1,0 +1,27 @@
+header, footer, aside, nav, form, iframe, .menu, .hero, .adslot {
+    display: none;
+  }
+
+  article {
+    column-width: 17em;
+    column-gap: 3em;
+  }
+
+  * {
+    background-image: none !important;
+  }
+  
+  img.print, svg.print {
+    display: block;
+    max-width: 100%;
+  }
+  
+
+  a::after {
+    content: " (" attr(href) ")";
+  }
+
+
+@page {
+    margin: 2cm;
+  }

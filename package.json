@@ -1,0 +1,29 @@
+{
+    "name": "moneyspinner-theme",
+    "version": "1.0.0",
+    "description": "Glup setup",
+    "dependencies": {
+        "gulp": "*",
+        "gulp-autoprefixer": "*",
+        "gulp-cli": "*",
+        "gulp-csso": "*",
+        "gulp-rename": "*",
+        "gulp-sass": "*",
+        "gulp-sourcemaps": "*",
+        "gulp-uglify": "*",
+        "gulp-watch": "*",
+        "sass": "^1.38.1"
+    },
+    "browserslist": [
+        "> 5%",
+        "ie >= 9",
+        "edge >= 17",
+        "ie_mob >= 10",
+        "ff >= 68",
+        "chrome >= 76",
+        "safari >= 11",
+        "opera >= 62",
+        "ios >= 11",
+        "android >= 74"
+    ]
+}

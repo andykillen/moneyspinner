@@ -1,0 +1,1 @@
+.adslot,.hero,.menu,aside,footer,form,header,iframe,nav{display:none}article{column-width:17em;column-gap:3em}*{background-image:none!important}img.print,svg.print{display:block;max-width:100%}a::after{content:" (" attr(href) ")"}@page{margin:2cm}
